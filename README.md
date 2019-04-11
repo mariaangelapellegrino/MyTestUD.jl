@@ -13,7 +13,7 @@
 
 [docs-latest-img]: https://img.shields.io/badge/docs-latest-blue.svg
 [docs-stable-img]: https://img.shields.io/badge/docs-stable-blue.svg
-[docs-dev-url]: https://.github.io/MyTestUD.jl/dev
+[docs-dev-url]: https://mariaangelapellegrino.github.io/MyTestUD.jl/dev
 [docs-stable-url]: https://mariaangelapellegrino.github.io/MyTestUD.jl/stable
 
 [travis-img]: https://travis-ci.org/mariaangelapellegrino/MyTestUD.jl.svg?branch=master
